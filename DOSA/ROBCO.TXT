@@ -1,0 +1,21 @@
+CLS
+
+DO
+
+    DO: a$ = INKEY$
+    LOOP UNTIL a$ <> ""
+    SELECT CASE a$
+        CASE CHR$(9): gosub Tab
+
+
+
+        CASE CHR$(27): END
+        CASE CHR$(101): PRINT "e key pressed"
+
+    END SELECT
+LOOP
+
+Tab:
+PRINT "tab"
+RETURN
+
