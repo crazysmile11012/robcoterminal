@@ -17,30 +17,64 @@ int main() {
 		string output;
 		string arg1;
 		string arg2;
+		string arg3;
+		string arg4;
 		cout << ">";
 		cin >> input;
 
 		if (input == "cls") {
 			system("cls");
 		}
-		if (input == "run") {
-			cout << "module:";
-			cin >> arg1;
-			cout << "arg:";
-			cin >> arg2;
+		if (input == "start") {
+			cout << "starting ...";
+
+			
+
+
 
 
 		}
-		if (input == "") {
+		if (input == "config1") {
+			cout << "select a element to place\n";
+			cout << "1:button, 2:text, 3:button_port, 4:holodisk\n";
+			cout << ">";
+			cin >> input;
+			if (input == "1") {
+				cout << "button text:";
+				cin >> arg1;
+				cout << "text it links to:";
+				cin >> arg2;
+
+			}
+			if (input == "2") {
+				cout << "text:";
+				cin >> arg1;
+			}
+			if (input == "3") {
+				cout << "button text:";
+				cin >> arg1;
+				cout << "COM:";
+				cin >> arg2;
+				cout << "BAUD:";
+				cin >> arg3;
+				cout << "DATA:";
+				cin >> arg4;
+			}
+			if (input == "4") {
+				//opens a cpp file that allows loading programs WIP
+
+			}
+		}
+		if (input == "config2") {
 
 		}
-		if (input == "") {
+		if (input == "config3") {
 
 		}
-		if (input == "") {
+		if (input == "config4") {
 
 		}
-		if (input == "") {
+		if (input == "help") {
 
 		}
 
