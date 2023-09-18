@@ -37,8 +37,11 @@ int main() {
 	string config4arg4;
 
 	string configout = "";
-	printf("robco logo does not work rn\n");
-	
+	printf("#####    #####   ###     #####  #####\n");
+	printf("#   #    #   #   #   #   #      #   #\n");
+	printf("# #      #   #   #  #    #      #   #\n");
+	printf("#   #    #   #   #   #   #      #   #\n");
+	printf("#    #   #####   ###     #####  #####\n");
 	while (true) {
 		string input;
 		string output;
@@ -55,6 +58,11 @@ int main() {
 		}
 		if (input == "start") {
 			system("cls");
+			printf("#####    #####   ###     #####  #####\n");
+			printf("#   #    #   #   #   #   #      #   #\n");
+			printf("# #      #   #   #  #    #      #   #\n");
+			printf("#   #    #   #   #   #   #      #   #\n");
+			printf("#    #   #####   ###     #####  #####\n");
 			int loopcounter = 0;
 			//draw the elements specified in config1
 			cout << "\n";
@@ -294,7 +302,6 @@ int main() {
 				getline(cin, arg1);
 				getline(cin, arg1);
 				//cin >> arg1;
-				cout << arg1;//debug
 			}
 			if (input == "3") {
 				cout << "button text:";
@@ -340,7 +347,7 @@ int main() {
 				getline(cin, arg1);
 				getline(cin, arg1);
 				//cin >> arg1;
-				cout << arg1;//debug
+				
 			}
 			if (input == "3") {
 				cout << "button text:";
@@ -387,7 +394,7 @@ int main() {
 				getline(cin, arg1);
 				getline(cin, arg1);
 				//cin >> arg1;
-				cout << arg1;//debug
+				
 			}
 			if (input == "3") {
 				cout << "button text:";
@@ -434,7 +441,7 @@ int main() {
 				getline(cin, arg1);
 				getline(cin, arg1);
 				//cin >> arg1;
-				cout << arg1;//debug
+				
 			}
 			if (input == "3") {
 				cout << "button text:";
