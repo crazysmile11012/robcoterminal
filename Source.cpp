@@ -365,12 +365,15 @@ int main() {
 				else if (input == "2") {
 					if (config2out == "1") {
 						system("cls");
+						cout << "text:\n";
+						cout << config2arg2a;
 						while (argloop == true) {
 							cin >> input;
 							if (input == "escape") {
 								argloop = false;
 							}
 							else {
+								cout << "text:\n";
 								cout << config2arg2a;
 							}
 						}
@@ -399,12 +402,15 @@ int main() {
 				else if (input == "3") {
 					if (config3out == "1") {
 						system("cls");
+						cout << "text:\n";
+						cout << config3arg2a;
 						while (argloop == true) {
 							cin >> input;
 							if (input == "escape") {
 								argloop = false;
 							}
 							else {
+								cout << "text:\n";
 								cout << config3arg2a;
 							}
 						}
@@ -433,12 +439,15 @@ int main() {
 				else if (input == "4") {
 					if (config1out == "1") {
 						system("cls");
+						cout << "text:\n";
+						cout << config4arg2a;
 						while (argloop == true) {
 							cin >> input;
 							if (input == "escape") {
 								argloop = false;
 							}
 							else {
+								cout << "text:\n";
 								cout << config4arg2a;
 							}
 						}
