@@ -49,6 +49,7 @@ fo1 shadysands
 ---
 ![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/fdcfd17f-2b3e-47bd-8ba7-2c21dc59d4b6)
 ---
+radkings video on the internet of fallout:
 https://www.youtube.com/watch?v=fvU02WnfkE4
 ---
 **if you like the project and want to contribute make sure to make a pull request and provide documentation for your changes**
