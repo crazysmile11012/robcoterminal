@@ -10,6 +10,21 @@ the next major version it will include
 - large dos partition support
 - tools to make setting up fallout1 more simple for non tech-geek users
 
+#commands
+- `cd` change dir
+- `dir` print dir
+- `dir/p` print dir (paged)
+- `debug` we do a little hacking
+-   ^ `d` dump ram
+-    ^ `d 0000 ffff` dump ram (address range)
+-   ^ `q` quit debug
+- `edit` edit files
+- `hello` hello world text debug
+- `start` clears cli and re init's robco os header
+- `cls` clear cli
+- `chkdsk` checks disk for errors
+- `autoexec` restarts the terminal cli (not the system)
+
 
 
 
