@@ -10,7 +10,7 @@ the next major version it will include
 - large dos partition support
 - tools to make setting up fallout1 more simple for non tech-geek users
 
-#commands
+# commands
 - `cd` change dir
 - `dir` print dir
 - `dir/p` print dir (paged)
