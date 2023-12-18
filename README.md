@@ -33,9 +33,10 @@ the next major version it will include
 - `mem` ram debug
 - `move` moves file
 # photos
- photos:
 cli init
+---
 ![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/1fb68cef-8b0f-49d5-98d1-a48d01f1023a)
+---
 edit
 ![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/0fe14547-5a79-4eaa-8e58-c0752975f2c0)
 fo1 titlescreen
