@@ -32,7 +32,7 @@ the next major version it will include
 - `find` finds file
 - `mem` ram debug
 - `move` moves file
--------
+  # photos
 - cli init
 - ![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/1fb68cef-8b0f-49d5-98d1-a48d01f1023a)
 - edit
