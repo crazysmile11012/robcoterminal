@@ -33,9 +33,13 @@ the next major version it will include
 - `mem` ram debug
 - `move` moves file
 -------
+cli init
 ![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/1fb68cef-8b0f-49d5-98d1-a48d01f1023a)
+edit
 ![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/0fe14547-5a79-4eaa-8e58-c0752975f2c0)
+fo1 titlescreen
 ![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/03c61b45-6847-415a-bade-fde4205e69c4)
+fo1 shadysands
 ![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/fdcfd17f-2b3e-47bd-8ba7-2c21dc59d4b6)
 
 **if you like the project and want to contribute make sure to make a pull request and provide documentation for your changes**
