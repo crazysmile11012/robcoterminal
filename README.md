@@ -24,7 +24,4 @@ the next major version it will include
 - `cls` clear cli
 - `chkdsk` checks disk for errors
 - `autoexec` restarts the terminal cli (not the system)
-
-
-
-
+![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/1fb68cef-8b0f-49d5-98d1-a48d01f1023a)
