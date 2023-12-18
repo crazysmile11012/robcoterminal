@@ -34,3 +34,5 @@ the next major version it will include
 - `move` moves file
 -------
 ![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/1fb68cef-8b0f-49d5-98d1-a48d01f1023a)
+
+**if you like the project and want to contribute make sure to make a pull request and provide documentation for your changes**
