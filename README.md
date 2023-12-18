@@ -35,7 +35,7 @@ the next major version it will include
 # photos
 cli init
 ---
-https://github.com/crazysmile11012/robcoterminal/assets/107813207/1fb68cef-8b0f-49d5-98d1-a48d01f1023a
+![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/1fb68cef-8b0f-49d5-98d1-a48d01f1023a)
 ---
 edit
 ---
@@ -49,6 +49,6 @@ fo1 shadysands
 ---
 ![image](https://github.com/crazysmile11012/robcoterminal/assets/107813207/fdcfd17f-2b3e-47bd-8ba7-2c21dc59d4b6)
 ---
-![video](https://www.youtube.com/watch?v=fvU02WnfkE4)
+https://www.youtube.com/watch?v=fvU02WnfkE4
 ---
 **if you like the project and want to contribute make sure to make a pull request and provide documentation for your changes**
